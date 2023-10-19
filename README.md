@@ -11,6 +11,8 @@
 </ul>
 
  <h2>Project objectives:</h2>
- 
-What factors do we need to consider before coming to the conclusion that our students are adapting to online learning . what data do we have? 
-How sure are we that this change is sustainable? what else do we need to consider.
+<ul> 
+<li>What factors do we need to consider before coming to the conclusion that our students are adapting to online learning?</li> 
+<li>what data do we have? </li>
+<li>How sure are we that this change is sustainable? what else do we need to consider.</li>
+</ul>
