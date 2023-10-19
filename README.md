@@ -35,6 +35,9 @@
 <h2>First Look- Here comes the DATA </h2>
 
 
+<img width="1082" alt="Screen Shot 2023-10-19 at 11 28 23 AM" src="https://github.com/DataFairy-FeliciaM/Exploratory-Data-Analysis-with-Python-Panda--Project/assets/119903285/dbb75546-48a6-4ba9-8a54-5b45300940ef">
+
+
 
 
   
@@ -43,4 +46,15 @@
 <h5> Yes! I used isnull to check if there are any columns or rows that have null values-  Thats a good sign :thumbsup: </h5>
 
 <img width="1089" alt="Screen Shot 2023-10-19 at 11 27 43 AM" src="https://github.com/DataFairy-FeliciaM/Exploratory-Data-Analysis-with-Python-Panda--Project/assets/119903285/48acf2e1-eb40-438e-a3fb-0d6d8bf4a159">
+
+<h2>Data Manipulation</h2>
+
+ I will be doing the following to make sense of the data:
+ <ul>
+  <li>Sort according to different matrix (loadshedding, education level etc)</li>
+  <li>Convert the data types to be able to visualize some insights</li>
+  <li> Look at the shape of the data</li>
+
+  
+ </ul>
 
