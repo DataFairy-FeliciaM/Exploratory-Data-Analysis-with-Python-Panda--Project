@@ -5,6 +5,7 @@
 
 <h3>Tools/Libraires</h3>
 <ul>
+ <li>Jupyter Notebook</li>
  <li>Pandas :panda_face:</li>
  <li>Matplotlib</li>
  <li>Seaborn</li>
