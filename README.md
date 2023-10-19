@@ -54,7 +54,14 @@
   <li>Sort according to different matrix (loadshedding, education level etc)</li>
   <li>Convert the data types to be able to visualize some insights</li>
   <li> Look at the shape of the data</li>
-
-  
+  <li>I use COUNT because the data came in qualitative form, in order to visualize it I will need numbers</li>
  </ul>
+
+
+ <img width="941" alt="Screen Shot 2023-10-19 at 11 28 40 AM" src="https://github.com/DataFairy-FeliciaM/Exploratory-Data-Analysis-with-Python-Panda--Project/assets/119903285/27b62be7-43f2-4124-b380-dcf25c88ac37">
+
+
+
+
+<img width="1037" alt="Screen Shot 2023-10-19 at 11 28 53 AM" src="https://github.com/DataFairy-FeliciaM/Exploratory-Data-Analysis-with-Python-Panda--Project/assets/119903285/b2779710-0bd0-45c3-95ae-8fabd65b9436">
 
