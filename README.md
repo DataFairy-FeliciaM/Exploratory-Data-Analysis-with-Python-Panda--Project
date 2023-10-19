@@ -20,4 +20,6 @@
 
 <h2>First- Do I have complete data :question:</h2>
 
+<h5> Yes!</h5>
+
 <img width="1089" alt="Screen Shot 2023-10-19 at 11 27 43 AM" src="https://github.com/DataFairy-FeliciaM/Exploratory-Data-Analysis-with-Python-Panda--Project/assets/119903285/48acf2e1-eb40-438e-a3fb-0d6d8bf4a159">
