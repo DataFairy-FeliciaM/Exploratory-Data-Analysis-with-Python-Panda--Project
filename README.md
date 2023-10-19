@@ -1,4 +1,4 @@
-Exploratory-Data-Analysis-with-Python-Panda--Project :panda_face:
+
 <h1><b>Python for data analysis<b></h1>  
 
 <h1>Using Pandas :panda_face:  library to explore online education data</h1>
