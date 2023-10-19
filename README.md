@@ -4,6 +4,8 @@
 <h1>Using Pandas :panda_face:  library to explore online education data</h1>
 
 <h3>Tools/Libraires</h3>
+
+
 <ul>
  <li>Jupyter Notebook</li>
  <li>Pandas :panda_face:</li>
@@ -18,12 +20,19 @@
 <li>How sure are we that this change is sustainable? what else do we need to consider.</li>
 </ul>
 
-<h2> Importing all the Libraries I will be using<h2>
+<h2> Importing Libraries and uploading data <h2>
+
 
  <ol>
-  <li>Pandas for analyzing and anipulating data</li>
-  <li>Matplotlib and Seaborn for Visualization</li>
+ <li>Pandas for analyzing and anipulating data</li>
+ <li>Matplotlib and Seaborn for Visualization</li>
  </ol>
+
+
+<img width="1194" alt="Screen Shot 2023-10-19 at 11 28 01 AM" src="https://github.com/DataFairy-FeliciaM/Exploratory-Data-Analysis-with-Python-Panda--Project/assets/119903285/524a2704-96bc-4e07-a3f2-99d45062aa53">
+
+
+<h2>First Look- Here comes the DATA </h2>
 
 
 
