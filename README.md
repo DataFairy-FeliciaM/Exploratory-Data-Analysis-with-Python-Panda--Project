@@ -18,6 +18,17 @@
 <li>How sure are we that this change is sustainable? what else do we need to consider.</li>
 </ul>
 
+<h2> Importing all the Libraries I will be using<h2>
+
+ <ol>
+  <li>Pandas for analyzing and anipulating data</li>
+  <li>Matplotlib and Seaborn for Visualization</li>
+ </ol>
+
+
+
+
+  
 <h2>First- Do I have complete data :question:</h2>
 
 <h5> Yes! I used isnull to check if there are any columns or rows that have null values-  Thats a good sign :thumbsup: </h5>
