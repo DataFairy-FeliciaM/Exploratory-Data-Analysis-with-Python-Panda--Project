@@ -65,3 +65,10 @@
 
 <img width="1037" alt="Screen Shot 2023-10-19 at 11 28 53 AM" src="https://github.com/DataFairy-FeliciaM/Exploratory-Data-Analysis-with-Python-Panda--Project/assets/119903285/b2779710-0bd0-45c3-95ae-8fabd65b9436">
 
+
+
+<h2>Data Visualization :bar_chart: </h2>
+Using the libraries Seaborn and Matplotlib
+
+
+
