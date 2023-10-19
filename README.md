@@ -1,5 +1,5 @@
 
-<h1><b>Python for data analysis<b></h1>  
+<h1><b> :snake: Python for data analysis<b></h1>  
 
 <h1>Using Pandas :panda_face:  library to explore online education data</h1>
 
@@ -17,3 +17,5 @@
 <li>what data do we have? </li>
 <li>How sure are we that this change is sustainable? what else do we need to consider.</li>
 </ul>
+
+<h2>First- Do I have the complete data :question:</h2>
