@@ -72,3 +72,13 @@ Using the libraries Seaborn and Matplotlib
 
 
 
+
+<img width="1417" alt="Screen Shot 2023-10-19 at 11 29 36 AM" src="https://github.com/DataFairy-FeliciaM/Exploratory-Data-Analysis-with-Python-Panda--Project/assets/119903285/cac7d7c0-e2c4-478e-b402-7fa03687e13f">
+
+
+
+
+
+<img width="1082" alt="Screen Shot 2023-10-19 at 11 28 46 AM" src="https://github.com/DataFairy-FeliciaM/Exploratory-Data-Analysis-with-Python-Panda--Project/assets/119903285/f010d8fd-cce2-494d-b259-c171d2260e31">
+
+
